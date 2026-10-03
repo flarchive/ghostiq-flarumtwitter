@@ -2,13 +2,17 @@
 
 > **Read-only archive of released versions of ghostiq/flarumtwitter.** Not for installation: use [Packagist](https://packagist.org/packages/ghostiq/flarumtwitter) or the [upstream repository](https://github.com/ghostiq/flarumtwitter).
 
-**0** versions archived · Latest: [`v0.6-beta`](https://github.com/flarchive/ghostiq-flarumtwitter/tree/archive/v0.6-beta) · License: `MIT` · Flarum: `^0.1.0-beta.7`
+**5** versions archived · Latest: [`v0.6-beta`](https://github.com/flarchive/ghostiq-flarumtwitter/tree/archive/v0.6-beta) · License: `MIT` · Flarum: `^0.1.0-beta.7`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1-beta` | 2019-09-11 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/ghostiq-flarumtwitter/tree/archive/v0.1-beta) |
+| `v0.3-beta` | 2019-09-12 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/ghostiq-flarumtwitter/tree/archive/v0.3-beta) |
+| `v0.4-beta` | 2019-09-12 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/ghostiq-flarumtwitter/tree/archive/v0.4-beta) |
+| `v0.5-beta` | 2019-09-12 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/ghostiq-flarumtwitter/tree/archive/v0.5-beta) |
+| `v0.6-beta` | 2019-09-12 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/ghostiq-flarumtwitter/tree/archive/v0.6-beta) |
 
 Catalog entry: [packages/ghostiq-flarumtwitter.json](https://github.com/flarchive/archive-index/blob/main/packages/ghostiq-flarumtwitter.json)
 
